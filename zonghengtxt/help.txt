@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+http://book.zongheng.com/chapter/189169/8221340.html
+http://book.zongheng.com/chapter/189169/8300796.html
+
+http://book.zongheng.com/chapter/189169/4028878.html
+http://book.zongheng.com/chapter/189169/3431754.html
+
+['第一百六十一章', '第一百六十章', '第一百五十九章', '第一百五十八章', '第一百五十七章', '第一百五十六章', '第一百五十五章',
+ '第一百五十四章', '第一百五十三章', '第一百五十二章', '第一百五十一章', '第一百五十章', '第一百四十九章', '第一百四十八章',
+ '第一百四十七章', '第一百四十六章', '第一百四十五章', '第一百四十四章', '第一百四十三章', '第一百四十二章', '第一百四十一章',
+  '第一百四十章', '第一百三十九章', '第一百三十八章', '第一百三十七章', '第一百三十六章', '第一百三十五章', '第一百三十四章',
+   '第一百三十三章', '第一百三十二章', '第一百三十一章', '第一百三十章', '第一百二十九章', '第一百二十八章', '第一百二十七章',
+    '第一百二十六章', '第一百二十五章', '第一百二十四章', '第一百二十三章', '第一百二十二章', '第一百二十一章', '第一刀第一百二十章',
+    '第一百一十九章', '第一百一十八章', '第一百一十七章', '第一百一十六章', '第一百一十五章', '第一百一十四章', '第一百一十三章',
+     '第一百一十二章', '第一百一十一章', '第一百一十章', '第一百零九章', '第一百零八章', '第一百零七章', '第一百零六章', '第一百零五章', '第一百零四章', '第一百零三章', '第一百零二章', '第一百零一章', '第一百章', '第九十九章', '第九十八章', '第九十七章', '第九十六章', '第九十五章', '第九十四章', '第九十三章', '第九十二章', '第九十一章', '第九十章', '第八十九章', '第八十八章', '第八十七章', '第八十六章', '第八十五章', '第八十四章', '第八十三章', '第八十二章', '第八十一章', '第八十章', '第七十九章', '第七十八章', '第七十七章', '第七十六章', '第七十五章', '第七十四章', '第七十三章', '第七十二章', '第七十一章', '第七十章', '第六十九章', '第六十八章', '第六十七章', '第六十六章', '第六十五章', '第六十四章', '第六十三章', '第六十二章', '第六十一章', '第六十章', '第五十九章', '第五十八章', '第五十七章', '第五十六章', '第五十五章', '第五十四章', '第五十三章', '第五十二章', '第五十一章', '第五十章', '第四十九章', '第四十八章', '第四十七章', '第四十六章', '第四十五章', '第四十四章', '第四十三章', '第四十二章', '第四十一章', '第四十章', '第三十九章', '第三十八章', '第三十七章', '第三十六章', '第三十五章', '第三十四章', '第三十三章', '第三十二章', '第三十一章', '第三十章', '第二十九章', '第二十八章', '第二十七章', '第二十六章', '第二十五章', '第二十四章', '第二十三章', '第二十二章', '第二十一章', '第二十章', '第十九章', '第十八章', '第十七章', '第十六章', '第十五章', '第十四章', '第十三章', '第十二章', '第十一章', '第十章', '第九章', '第八章', '第七章', '第六章', '第五章', '第一美人第四章', '第三章', '第二章', '第一章']
+
+http://huayu.baidu.com/showchapter/204667.html
+
+   {'家有仙师太妖娆': 'http://book.zongheng.com/book/204667.html', '武逆神荒': 'http://book.zongheng.com/book/278467.html',
+   '妖影': 'http://book.zongheng.com/book/722093.html', '女流氓的罗曼史': 'http://book.zongheng.com/book/42615.html',
+   '位面小蝴蝶': 'http://book.zongheng.com/book/.html', '妙手药师': 'http://book.zongheng.com/book/212894.html',
+    '万界仙王': 'http://book.zongheng.com/book/711996.html', '恶魔手机': 'http://book.zongheng.com/book/724430.html',
+    '古城晚秋': 'http://book.zongheng.com/book/264299.html', '超神英雄传': 'http://book.zongheng.com/book/697796.html',
+    '第一公主': 'http://book.zongheng.com/book/98349.html', '傲娇甜妻哪里逃': 'http://book.zongheng.com/book/245812.html',
+     '红包万岁': 'http://book.zongheng.com/book/711963.html', '第一仙': 'http://book.zongheng.com/book/716054.html',
+     '仙都': 'http://book.zongheng.com/book/117529.html', '天下为聘': 'http://book.zongheng.com/book/.html'}
+
+     免费小说点击榜
+{'top': '', 'href': 'http://book.zongheng.com/book/722093.html', 'ficName': '妖影'}
+{'top': '12', 'href': 'http://book.zongheng.com/book/722093.html', 'ficName': '妖影'}
+{'top': '', 'href': 'http://book.zongheng.com/book/711996.html', 'ficName': '万界仙王'}
+免费小说收藏榜
+免费小说红票榜
+{'top': '8', 'href': 'http://book.zongheng.com/book/722093.html', 'ficName': '妖影'}
+{'top': '', 'href': 'http://book.zongheng.com/book/697796.html', 'ficName': '超神英雄传'}
+{'top': '10', 'href': 'http://book.zongheng.com/book/716054.html', 'ficName': '第一仙'}
+{'top': '5', 'href': 'http://book.zongheng.com/book/724430.html', 'ficName': '恶魔手机'}
+{'top': '7', 'href': 'http://book.zongheng.com/book/711996.html', 'ficName': '万界仙王'}
+{'top': '', 'href': 'http://book.zongheng.com/book/724430.html', 'ficName': '恶魔手机'}
+{'top': '14', 'href': 'http://book.zongheng.com/book/711963.html', 'ficName': '红包万岁'}
+{'top': '', 'href': 'http://book.zongheng.com/book/722093.html', 'ficName': '妖影'}
+{'top': '', 'href': 'http://book.zongheng.com/book/711996.html', 'ficName': '万界仙王'}
+1153862
+{'top': False, 'href': 'http://book.zongheng.com/book/.html', 'ficName': '位面小蝴蝶'}
+免费小说txt下载榜
+免费小说强推榜
+{'top': '仙侠', 'href': 'http://book.zongheng.com/book/204667.html', 'ficName': '家有仙师太妖娆'}
+{'top': '', 'href': 'http://book.zongheng.com/book/.html', 'ficName': '天下为聘'}
+{'top': '传奇', 'href': 'http://book.zongheng.com/book/264299.html', 'ficName': '古城晚秋'}
+{'top': '都市', 'href': 'http://book.zongheng.com/book/212894.html', 'ficName': '妙手药师'}
+{'top': '架空', 'href': 'http://book.zongheng.com/book/98349.html', 'ficName': '第一公主'}
+{'top': '玄幻', 'href': 'http://book.zongheng.com/book/278467.html', 'ficName': '武逆神荒'}
+{'top': '豪门', 'href': 'http://book.zongheng.com/book/245812.html', 'ficName': '傲娇甜妻哪里逃'}
+{'top': '婚恋', 'href': 'http://book.zongheng.com/book/42615.html', 'ficName': '女流氓的罗曼史'}
+{'top': '仙侠', 'href': 'http://book.zongheng.com/book/117529.html', 'ficName': '仙都'}
+免费小说强推榜
+{'top': '仙侠', 'href': 'http://book.zongheng.com/book/204667.html', 'ficName': '家有仙师太妖娆'}
+{'top': '', 'href': 'http://book.zongheng.com/book/.html', 'ficName': '天下为聘'}
+{'top': '传奇', 'href': 'http://book.zongheng.com/book/264299.html', 'ficName': '古城晚秋'}
+{'top': '都市', 'href': 'http://book.zongheng.com/book/212894.html', 'ficName': '妙手药师'}
+{'top': '架空', 'href': 'http://book.zongheng.com/book/98349.html', 'ficName': '第一公主'}
+{'top': '玄幻', 'href': 'http://book.zongheng.com/book/278467.html', 'ficName': '武逆神荒'}
+{'top': '豪门', 'href': 'http://book.zongheng.com/book/245812.html', 'ficName': '傲娇甜妻哪里逃'}
+{'top': '婚恋', 'href': 'http://book.zongheng.com/book/42615.html', 'ficName': '女流氓的罗曼史'}
+{'top': '仙侠', 'href': 'http://book.zongheng.com/book/117529.html', 'ficName': '仙都'}
+限时免费
+
+第一阶段：
+1、解析文本所在网页——（1）标题、正文 （2）调试
+2、解析该文本链接所在的网页 ——（1）按卷提前每个标题链接及标题 （2）调试
+3、解析2的链接 ——（1）比对构造 （2）调试
+4、解析初始网页——（2）分区、分块批量获取3的链接集合 （2）调试
+5、解决问题（1）初次下载去重？？？（2）初次下载的优化：包括a、错误网址查找原因，构建错误错误，
+循环处理直至无错误或达到规定循环次数 b、undo到do集合的优化，如果crawl成功才真正的undo到do
+（2）再次下载即更新操作 ； （3）线程及进程的使用？？（4）数据的存储优化 （5）调试
+6、界面制作——（1）界面设计及制作、（2）功能连接及调试 （3）打包发布 （4）后续更新
