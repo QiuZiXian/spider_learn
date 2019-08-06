@@ -8,12 +8,14 @@ import re
 
 headers = (
 '''
-Accept:*/*
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
 Accept-Encoding:gzip, deflate, sdch
 Accept-Language:zh-CN,zh;q=0.8
+Cache-Control:max-age=0
 Connection:keep-alive
-Host:static.cdn.comments8.com
-Referer:http://www.laoyuegou.com/x/zh-cn/lol/lol/godrank.html?region=cn&area=1
+Cookie:_ga=GA1.2.1053266000.1564734163; _gid=GA1.2.979133678.1564734163
+Host:fz.maitian.cn
+Upgrade-Insecure-Requests:1
 User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36 LBBROWSER
 '''
 )

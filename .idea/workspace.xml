@@ -2,106 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfacce4f-ff43-4fc9-a360-d45baee3fa1b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/MTime.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/text_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/20171205thread-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider-1/20171206.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/spider-learn/20171206spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/20171212spider-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/DataOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/DataOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstSpider/DataOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondSpider/DataOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theNewestMoviesSource/DataOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/DataOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/DataOutput_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/ErrorHandle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/FreeFiction.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstSpider/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lol_laoyuegou_spider/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondSpider/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theNewestMoviesSource/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trainer/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/HtmlDownloader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/HtmlParser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/HtmlParser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstSpider/HtmlParser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondSpider/HtmlParser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theNewestMoviesSource/HtmlParser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/HtmlParser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/SpiderAndErrorsHandle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/SpiderMan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/SpiderMan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstSpider/SpiderMan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondSpider/SpiderMan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theNewestMoviesSource/SpiderMan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/SpiderMan.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/SpiderManthread.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/SpiderManthread2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondSpider/SpiderWork.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lol_laoyuegou_spider/UrlManager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/UrlManger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/firstSpider/UrlManger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondSpider/UrlManger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/UrlManger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/headToDict/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider-2/base-spider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adultFilm/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/geckodriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/genDownload.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/generateDownload2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/ghostdriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/ghostdriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/ghostdriver.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/headToDict/headToDict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adult-movies/help.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/help.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSpider/help.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/theNewestMoviesSource/help.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/help.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trainer/help" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/help_2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/listCreateFun.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/proMain.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/process1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider-1/qiye.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spider-1/qiye.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/readAnddown2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/readanddown.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/selenium_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/selenium_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/selenium_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/selenium_3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/selenium_4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/selenium_5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/selenium_adultfilm.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/selenium_qunawang.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/spider_learn.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/secondSpider/start_manager.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adult-movies/test-1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lol_laoyuegou_spider/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/thread-2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zonghengtxt/titleHandle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trainer/trainTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadTest/urllipTest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/zhihu.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamicSelenium/上海2017-12-15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house/spider1/DataOutput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house/spider1/HtmlDownloader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house/spider1/HtmlParser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house/spider1/SpiderMan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house/spider1/UrlManger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house/maiTai.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/house/read_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/headToDict/headToDict.py" afterPath="$PROJECT_DIR$/headToDict/headToDict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="numpy_learn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -132,30 +41,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlDownloader.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstSpider/HtmlDownloader.py">
+      <file leaf-file-name="maiTai.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/house/maiTai.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HtmlParser.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/firstSpider/HtmlParser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25218913">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.47810858">
+              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
               <folding>
-                <element signature="e#193#202#0" expanded="true" />
+                <element signature="e#183#198#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlParser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/secondSpider/HtmlParser.py">
+      <file leaf-file-name="DataOutput.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/house/spider1/DataOutput.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+              <folding>
+                <element signature="e#191#204#0" expanded="true" />
+                <element signature="e#395#911#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/house/read_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -164,22 +76,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlParser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adultFilm/HtmlParser.py">
+      <file leaf-file-name="DataOutput.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adultFilm/DataOutput.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="136" column="49" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="49" />
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpiderManthread.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adultFilm/SpiderManthread.py">
+      <file leaf-file-name="HtmlDownloader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/house/spider1/HtmlDownloader.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="headToDict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/headToDict/headToDict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="130" selection-start-line="18" selection-start-column="130" selection-end-line="18" selection-end-column="130" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpiderMan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/house/spider1/SpiderMan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+              <folding>
+                <element signature="e#192#237#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,10 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/adult-film/SpiderMan.py" />
-        <option value="$PROJECT_DIR$/secondSpider/SpiderMan.py" />
-        <option value="$PROJECT_DIR$/secondSpider/UrlManger.py" />
-        <option value="$PROJECT_DIR$/threadTest/20171205thread-1.py" />
         <option value="$PROJECT_DIR$/dynamicSelenium/selenium_2.py" />
         <option value="$PROJECT_DIR$/adultFilm/UrlManger.py" />
         <option value="$PROJECT_DIR$/adultFilm/SpiderManthread2.py" />
@@ -242,7 +172,6 @@
         <option value="$PROJECT_DIR$/lol_laoyuegou_spider/test.py" />
         <option value="$PROJECT_DIR$/train12306/trainTest.py" />
         <option value="$PROJECT_DIR$/trainer/HtmlDownloader.py" />
-        <option value="$PROJECT_DIR$/headToDict/headToDict.py" />
         <option value="$PROJECT_DIR$/trainer/help" />
         <option value="$PROJECT_DIR$/trainer/trainTest.py" />
         <option value="$PROJECT_DIR$/theNewestMoviesSource/HtmlDownloader.py" />
@@ -252,6 +181,11 @@
         <option value="$PROJECT_DIR$/theNewestMoviesSource/help.txt" />
         <option value="$PROJECT_DIR$/theNewestMoviesSource/DataOutput.py" />
         <option value="$PROJECT_DIR$/zonghengtxt/HtmlDownloader.py" />
+        <option value="$PROJECT_DIR$/house/spider1/SpiderMan.py" />
+        <option value="$PROJECT_DIR$/house/spider1/DataOutput.py" />
+        <option value="$PROJECT_DIR$/headToDict/headToDict.py" />
+        <option value="$PROJECT_DIR$/house/spider1/HtmlDownloader.py" />
+        <option value="$PROJECT_DIR$/house/maiTai.py" />
       </list>
     </option>
   </component>
@@ -271,7 +205,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -287,16 +221,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -315,30 +240,123 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="secondSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="headToDict" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="firstSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dynamicSpider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider_learn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adultFilm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../12306master" />
     <property name="FullScreen" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\20160910\ruanjian\pycharmfile\spider_learn\house" />
+      <recent name="D:\20160910\ruanjian\pycharmfile\spider_learn\house\spider1" />
       <recent name="D:\20160910\ruanjian\pycharmfile\spider_learn\train12306" />
       <recent name="D:\20160910\ruanjian\pycharmfile\spider_learn\test" />
       <recent name="D:\20160910\ruanjian\pycharmfile\spider_learn\zonghengtxt" />
-      <recent name="D:\20160910\ruanjian\pycharmfile\spider_learn\threadTest" />
-      <recent name="D:\20160910\ruanjian\pycharmfile\spider_learn\adultFilm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.headToDict">
+  <component name="RunManager" selected="Python.maiTai">
     <configuration default="false" name="headToDict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,23 +370,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/headToDict/headToDict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="trainTest (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="spider_learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer/trainTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -420,6 +421,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="spider_learn" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/theNewestMoviesSource/DataOutput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="maiTai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/house" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="spider_learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/house/maiTai.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -548,18 +566,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.headToDict" />
-      <item index="1" class="java.lang.String" itemvalue="Python.trainTest (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.HtmlParser" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SpiderMan" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DataOutput" />
+      <item index="1" class="java.lang.String" itemvalue="Python.HtmlParser" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SpiderMan" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DataOutput" />
+      <item index="4" class="java.lang.String" itemvalue="Python.maiTai" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.headToDict" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DataOutput" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SpiderMan" />
-        <item index="3" class="java.lang.String" itemvalue="Python.HtmlParser" />
-        <item index="4" class="java.lang.String" itemvalue="Python.trainTest (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.maiTai" />
+        <item index="1" class="java.lang.String" itemvalue="Python.headToDict" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DataOutput" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SpiderMan" />
+        <item index="4" class="java.lang.String" itemvalue="Python.HtmlParser" />
       </list>
     </recent_temporary>
   </component>
@@ -578,26 +596,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17467019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2669633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2669633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -618,62 +636,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spider-1/qiye.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider-1/qiye.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threadTest/genDownload.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.3529413">
-          <caret line="164" column="42" selection-start-line="164" selection-start-column="42" selection-end-line="164" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adult-movies/help.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="46" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../python3/Lib/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3319149">
-          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider-1/20171206.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zonghengtxt/titleHandle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zonghengtxt/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.2697673">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zonghengtxt/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -692,13 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamicSelenium/selenium_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -765,13 +720,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adultFilm/HtmlDownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lol_laoyuegou_spider/HtmlDownloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -804,13 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trainer/HtmlDownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -849,13 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adultFilm/DataOutput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zonghengtxt/HtmlParser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -874,20 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52595156">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/headToDict/headToDict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41983852">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zonghengtxt/HtmlDownloader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38754326">
-          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -933,6 +853,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/firstSpider/HtmlDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secondSpider/HtmlParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adultFilm/HtmlParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.033274956">
+          <caret line="136" column="49" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adultFilm/SpiderManthread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstSpider/HtmlParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22488038">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/theNewestMoviesSource/help.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -941,44 +896,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstSpider/HtmlDownloader.py">
+    <entry file="file://$PROJECT_DIR$/dynamicSelenium/selenium_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19617225">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firstSpider/UrlManger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8724083">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamicSpider/HtmlDownloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adultFilm/SpiderManthread.py">
+    <entry file="file://$PROJECT_DIR$/adultFilm/HtmlDownloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="0.76555026">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adultFilm/HtmlParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="136" column="49" selection-start-line="136" selection-start-column="44" selection-end-line="136" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/secondSpider/HtmlParser.py">
+    <entry file="file://$PROJECT_DIR$/secondSpider/HtmlDownloader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstSpider/HtmlParser.py">
+    <entry file="file://$PROJECT_DIR$/zonghengtxt/HtmlDownloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25218913">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.46411484">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/HtmlDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61244017">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house/spider1/DataOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
           <folding>
-            <element signature="e#193#202#0" expanded="true" />
+            <element signature="e#191#204#0" expanded="true" />
+            <element signature="e#395#911#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house/read_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adultFilm/DataOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house/spider1/SpiderMan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="e#192#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/headToDict/headToDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="130" selection-start-line="18" selection-start-column="130" selection-end-line="18" selection-end-column="130" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house/spider1/HtmlDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/house/maiTai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47810858">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#183#198#0" expanded="true" />
           </folding>
         </state>
       </provider>
